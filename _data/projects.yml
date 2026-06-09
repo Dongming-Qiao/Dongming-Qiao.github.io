@@ -1,0 +1,26 @@
+# main:
+#   - title: "BERT for Machine Reading Comprehension"
+#     image:
+#     image_alt:
+#     description: "Course project for Knowledge Engineering. Fine-tuned BERT on the SQuAD dataset to reproduce the machine reading comprehension task and conducted error analysis to diagnose failure cases."
+#     technologies: "Python, PyTorch"
+#     date: "2025.12"
+#     page:
+#     code:
+#     pdf:
+#     bibtex:
+#     notes: "Course Project"
+#     others:
+
+#   - title: "A Dual-Perspective Evaluation of MARL Algorithms"
+#     image:
+#     image_alt:
+#     description: "Course project for Reinforcement Learning. Evaluated the impact of self-play on MAPPO and reproduced TransfQMix and QMIX, followed by an analysis of the trade-off between model dependence and algorithmic stability in SMACv2."
+#     technologies: "Python, PyTorch"
+#     date: "2025.11 - 2025.12"
+#     page:
+#     code:
+#     pdf:
+#     bibtex:
+#     notes: "Course Project"
+#     others:

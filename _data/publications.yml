@@ -1,0 +1,16 @@
+main:
+  - title: "OMG: Omni-Modal Motion Generation for Generalist Humanoid Control"
+    authors: "Siqiao Huang*, Kun-Ying Lee*, <strong><u>Dongming Qiao</u></strong>*, Guanqi He*, Zhenyu Wang, Yitang Li, Shaoting Zhu, Hang Zhao&dagger;"
+    conference_short: "In-Submission"
+    # conference: "In submission. MARS Lab, Tsinghua University."
+    image: "./assets/img/teaser_OMG.png"
+    image_alt: "Teaser for OMG: Omni-Modal Motion Generation for Generalist Humanoid Control"
+    # notes: "Co-first author"
+
+  - title: "STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning"
+    authors: "Zhihao Liu*, Qiuyi Gu*, Yitao Wang, <strong><u>Dongming Qiao</u></strong>, Yixian Zhang, Shuaihang Chen, ..., Xinlei Chen&dagger;, Chao Yu&dagger;"
+    conference_short: "In-Submission"
+    # conference: "In submission. Advisor: Prof. Chao Yu."
+    image: "./assets/img/teaser_STEAM.png"
+    image_alt: "Teaser for STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning"
+    # notes: "Fourth author"
