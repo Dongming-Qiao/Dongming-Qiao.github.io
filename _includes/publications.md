@@ -16,9 +16,13 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      {% assign publication_url = link.url | default: link.page | default: link.pdf | default: "#" %}
+      {% assign publication_url = link.url | default: link.page | default: link.pdf %}
       <div class="title">
+        {% if publication_url %}
         <a href="{{ publication_url }}">{{ link.title }}</a>
+        {% else %}
+        {{ link.title }}
+        {% endif %}
       </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>

@@ -1,16 +1,24 @@
 main:
   - title: "OMG: Omni-Modal Motion Generation for Generalist Humanoid Control"
+    url: https://arxiv.org/abs/2606.10340
     authors: "Siqiao Huang*, Kun-Ying Lee*, <strong><u>Dongming Qiao</u></strong>*, Guanqi He*, Zhenyu Wang, Yitang Li, Shaoting Zhu, Hang Zhao&dagger;"
     conference_short: "In-Submission"
-    # conference: "In submission. MARS Lab, Tsinghua University."
+    conference: "ArXiv preprint, 2026."
     image: "./assets/img/teaser_OMG.png"
     image_alt: "Teaser for OMG: Omni-Modal Motion Generation for Generalist Humanoid Control"
+    pdf: "https://arxiv.org/pdf/2606.10340"
+    code: "https://github.com/Tsinghua-MARS-Lab/OMG"
+    page: "https://tsinghua-mars-lab.github.io/OMG/"
     # notes: "Co-first author"
 
   - title: "STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning"
+    url: https://arxiv.org/abs/2606.29834
     authors: "Zhihao Liu*, Qiuyi Gu*, Yitao Wang, <strong><u>Dongming Qiao</u></strong>, Yixian Zhang, Shuaihang Chen, ..., Xinlei Chen&dagger;, Chao Yu&dagger;"
     conference_short: "In-Submission"
-    # conference: "In submission. Advisor: Prof. Chao Yu."
+    conference: "ArXiv preprint, 2026."
     image: "./assets/img/teaser_STEAM.png"
     image_alt: "Teaser for STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning"
+    pdf: "https://arxiv.org/pdf/2606.29834"
+    code: "https://rlinf.readthedocs.io/en/latest/rst_source/examples/embodied/steam.html"
+    page: "https://rlinf.github.io/steam/"
     # notes: "Fourth author"

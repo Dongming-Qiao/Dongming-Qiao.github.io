@@ -14,6 +14,8 @@ description: Personal homepage of Dongming Qiao, an undergraduate student in the
 # If you don't need one of them, you may delete the corresponding line.
 cv_link: # assets/files/curriculum_vitae.pdf
 github_link: https://github.com/Dongming-Qiao
+google_scholar: "https://scholar.google.com/citations?user=gxKrj_QAAAAJ&hl=en&oi=ao"
+twitter: "https://x.com/dongming_qiao"
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

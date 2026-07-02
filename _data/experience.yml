@@ -1,0 +1,36 @@
+# Copy this item shape under `academic:` or `industry:` when you add real entries.
+#
+# academic:
+#   - organization: "Example Lab, Example University"
+#     url: "https://example.com"
+#     role: "Research Intern"
+#     period: "2026.3 - Present"
+#     topics: "Example Topic A, Example Topic B, Example Topic C."
+#     advisor_label: "Research Advisor"
+#     advisor: "Prof. Example Name"
+#     advisor_url: "https://example.com"
+#     image: "./assets/img/example_logo.png"
+#     image_alt: "Example logo"
+#
+# industry:
+
+academic:
+  - organization: "MARS Lab, Tsinghua University"
+    url: "https://group.iiis.tsinghua.edu.cn/~marslab/#/"
+    role: "Research Intern"
+    period: "2026.1 - Present"
+    topics: "Humanoid Foundation Models."
+    advisor_label: "Research Advisor"
+    advisor: "Prof. Hang Zhao"
+    advisor_url: "https://hangzhaomit.github.io/"
+    image: "./assets/img/mars_lab_logo.png"
+    image_alt: "MARS Lab logo"
+
+industry:
+  - organization: "Wuji Technology"
+    url: "https://wuji.tech/en/"
+    role: "Research Intern"
+    period: "2026.6 - Present"
+    topics: "Dexterous Manipulation."
+    image: "./assets/img/wuji_logo.png"
+    image_alt: "Wuji Technology logo"

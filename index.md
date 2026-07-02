@@ -31,6 +31,8 @@ My research interests lie in robotics, with a particular focus on humanoid whole
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/experience.md %}
+
 <!-- {% include_relative _includes/projects.md %}
 
 ## Technical Skills
