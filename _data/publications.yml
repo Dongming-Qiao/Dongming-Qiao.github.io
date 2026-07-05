@@ -9,6 +9,7 @@ main:
     pdf: "https://arxiv.org/pdf/2606.10340"
     code: "https://github.com/Tsinghua-MARS-Lab/OMG"
     page: "https://tsinghua-mars-lab.github.io/OMG/"
+    highlight: true
     # notes: "Co-first author"
 
   - title: "STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning"

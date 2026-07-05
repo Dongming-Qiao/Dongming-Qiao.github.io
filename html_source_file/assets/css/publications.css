@@ -47,7 +47,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 #pub-filter-all:checked ~ .publication-list-all { display: block; }
 
-.pub-row-selected { background: #eaf4ff; border-radius: 6px; margin-bottom: 0.25rem; padding: 6px 8px 4px 0; }
+.pub-row-selected { background: #eaf4ff; border-radius: 6px; margin-bottom: 0.25rem; padding: 8px 12px 8px 0; }
 
 @media (prefers-color-scheme: dark) {
 .pub-row-selected,
