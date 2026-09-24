@@ -4,9 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a third-year undergraduate student in the [Department of Automation at Tsinghua University](https://www.au.tsinghua.edu.cn/). I am currently a research intern at the [Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University](https://iiis.tsinghua.edu.cn/), working with [Prof. Hang Zhao](https://hangzhaomit.github.io/).
+I am a final-year undergraduate student in the [Department of Automation at Tsinghua University](https://www.au.tsinghua.edu.cn/). Previously, I was a research intern at the [Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University](https://iiis.tsinghua.edu.cn/), where I worked with [Prof. Hang Zhao](https://hangzhaomit.github.io/).
+{: style="text-align: justify;" }
 
-My research interests lie in robotics, with a particular focus on humanoid whole-body control. I am especially interested in building scalable and generalist humanoid control models that can learn from multimodal signals, adapt to new sensing and instruction modalities, and acquire versatile behaviors.
+My research interests lie in embodied AI and robotics. My previous research focused on humanoid foundation models for whole-body control. I am also interested in sample-efficient reinforcement learning and developing scalable robotic learning methods that enable robots to acquire diverse and generalizable behaviors.
+{: style="text-align: justify;" }
+
+<p style="color: #2662bc; font-style: italic; font-size: 1.1rem; line-height: 1.6; text-align: justify;">I am seeking PhD opportunities starting in Fall 2027 and would be happy to discuss potential research collaborations.</p>
 
 ## Education
 
